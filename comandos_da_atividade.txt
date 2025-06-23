@@ -1,0 +1,40 @@
+Olá, Professor Rodrigo!
+
+Escrevo para enviar os comandos que utilizei no terminal Linux para esta atividade, conforme solicitado. Me esforcei bastante para entender cada passo e fazer tudo certinho.
+
+**Módulo:** Linux
+**Aluno:** Matheus Coutinho de Oliveira
+
+---
+
+**Aqui estão os comandos que usei, Professor:**
+
+1.  **Para deixar meu script 'calculadora.sh' executável:**
+    * Usei este comando para que o sistema entendesse que 'calculadora.sh' é um programa que pode ser rodado.
+    * Comando:
+        ```bash
+        chmod +x calculadora.sh
+        ```
+
+2.  **Para definir as permissões do arquivo (só eu posso escrever e ler, os outros só leem):**
+    * Este comando garantiu que as permissões ficassem exatamente como pedido, mantendo o arquivo seguro e acessível da forma correta.
+    * Comando:
+        ```bash
+        chmod 644 calculadora.sh
+        ```
+
+3.  **Para rodar (executar) o script 'calculadora.sh':**
+    * Finalmente, usei este comando para testar minha calculadora e ver se tudo funcionava como esperado.
+    * Comando:
+        ```bash
+        ./calculadora.sh
+        ```
+
+---
+
+Espero que minha entrega esteja de acordo com o que o senhor esperava. Qualquer dúvida, estou à disposição!
+
+Muito obrigado pela sua atenção,
+Matheus Coutinho de Oliveira
+
+
