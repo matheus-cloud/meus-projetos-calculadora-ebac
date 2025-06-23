@@ -84,4 +84,4 @@ Um ponto importante é o tratamento para a divisão: antes de realizar a operaç
 
 ---
 
-**Desenvolvido por:Matheus Coutimnho de oliveira 
+**Desenvolvido por:Matheus Coutinho de oliveira 
